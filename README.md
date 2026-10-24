@@ -1,35 +1,39 @@
 # Amos Ochieng
 
-**Computer Science student · Software development · ICT support**
+**Software development · Practical AI · ICT support**
 
-I'm a BSc Computer Science student at Maseno University, Kenya, with expected completion in 2027. I build web applications and work with APIs and databases, with an interest in practical AI applications.
+I build web applications that connect data, APIs and practical business workflows. My current focus is SmartInventory: a demand forecasting and inventory decision-support system.
 
-## Featured project
+## Featured project — SmartInventory
 
-### [MediCare HMS](https://github.com/A-amos/medicare-hms)
-A full-stack hospital management portfolio project for managing patients, doctors and appointments.
+### AI-Powered Inventory Demand Forecasting and Optimization
 
-- **Stack:** JavaScript, Node.js, Express, MongoDB and Mongoose
-- **Focus:** authentication, REST APIs, database models and a browser-based dashboard
-- **Explore:** [Source and setup guide](https://github.com/A-amos/medicare-hms#readme) · [Screenshots](https://github.com/A-amos/medicare-hms/tree/main/screenshots)
+SmartInventory brings inventory operations and machine-learning forecasts together to help users review stock levels, anticipate demand and plan replenishment.
+
+- **Inventory and sales:** product records, stock movements, sales processing and audit history.
+- **Demand forecasting:** comparisons of baseline models, Random Forest and XGBoost using chronological evaluation.
+- **Decision support:** explainable stock-risk indicators and reorder recommendations for human review.
+- **Dashboard:** interactive inventory views and model comparisons.
+- **Stack:** Python, FastAPI, React, MySQL and Docker.
+
+**Project status:** Working prototype with documented research and verification evidence. Forecasting evaluation uses historical UCI Online Retail II data; results are not a claim of current retail accuracy.
+
+**Source code:** Currently private.
 
 ## Skills
 
 | Area | Technologies |
 | --- | --- |
 | Web development | JavaScript, HTML, CSS, React, Node.js, Express |
-| Programming | Java, PHP |
-| Databases | MySQL, MongoDB, Mongoose |
+| APIs and data | Python, FastAPI, MySQL, MongoDB |
+| Other programming | Java, PHP |
 | Development tools | Git, Docker, VS Code |
 
-## Background and interests
+## Experience and interests
 
-- **Education:** BSc Computer Science, Maseno University — expected 2027.
-- **ICT attachment:** Oyugis Law Court, supporting digital records, user assistance, troubleshooting and virtual court sessions.
-- **Academic focus:** AI-powered inventory demand forecasting using historical sales patterns to support stock decisions.
-- **Languages:** English and Swahili — fluent in both.
+My ICT attachment at Oyugis Law Court involved digital records, user support, troubleshooting and virtual court sessions. I am fluent in English and Swahili.
 
-I'm interested in junior software development, ICT support and remote AI data work, including annotation and model evaluation.
+I'm interested in software development, practical AI applications, ICT support and remote AI data work.
 
 ## Connect
 
