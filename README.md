@@ -1,90 +1,36 @@
-# Hi there 👋 I'm Amos
+# Amos Ochieng
 
-## 💻 Full-Stack Developer 
+**Computer Science student · Software development · ICT support**
 
-Passionate about building modern web applications, backend systems, and real-world software solutions using JavaScript, Node.js, Express, and MongoDB.
+I'm a BSc Computer Science student at Maseno University, Kenya, with expected completion in 2027. I build web applications and work with APIs and databases, with an interest in practical AI applications.
 
----
+## Featured project
 
-## 🚀 Featured Project
+### [MediCare HMS](https://github.com/A-amos/medicare-hms)
+A full-stack hospital management portfolio project for managing patients, doctors and appointments.
 
-### 🏥 MediCare HMS — Hospital Management System
-A production-style full-stack Hospital Management System built with:
+- **Stack:** JavaScript, Node.js, Express, MongoDB and Mongoose
+- **Focus:** authentication, REST APIs, database models and a browser-based dashboard
+- **Explore:** [Source and setup guide](https://github.com/A-amos/medicare-hms#readme) · [Screenshots](https://github.com/A-amos/medicare-hms/tree/main/screenshots)
 
-- Node.js
-- Express.js
-- MongoDB Atlas
-- Vanilla JavaScript
-- HTML/CSS
+## Skills
 
-🔗 Project Repository:  
-https://github.com/A-amos/medicare-hms
+| Area | Technologies |
+| --- | --- |
+| Web development | JavaScript, HTML, CSS, React, Node.js, Express |
+| Programming | Java, PHP |
+| Databases | MySQL, MongoDB, Mongoose |
+| Development tools | Git, Docker, VS Code |
 
-### Features
-- JWT Authentication
-- Patient Management
-- Doctor Management
-- Appointment Scheduling
-- Dashboard Analytics
-- Responsive UI
-- REST API Architecture
+## Background and interests
 
----
+- **Education:** BSc Computer Science, Maseno University — expected 2027.
+- **ICT attachment:** Oyugis Law Court, supporting digital records, user assistance, troubleshooting and virtual court sessions.
+- **Academic focus:** AI-powered inventory demand forecasting using historical sales patterns to support stock decisions.
+- **Languages:** English and Swahili — fluent in both.
 
-## 🛠️ Tech Stack
+I'm interested in junior software development, ICT support and remote AI data work, including annotation and model evaluation.
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+## Connect
 
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-- Mongoose
-
-### Tools & Technologies
-- Git & GitHub
-- REST APIs
-- JWT Authentication
-- Postman
-- VS Code
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-amos&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-amos&layout=compact)
-
----
-
-## 📚 Currently Learning
-
-- Advanced Backend Development
-- System Design
-- API Security
-- Full-Stack Application Deployment
-
----
-
-## 🎯 Goals
-
-- Build scalable full-stack applications
-- Contribute to open-source projects
-- Grow as a software engineer
-- Create impactful real-world systems
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/A-amos
-
----
-
-⭐ Always learning, building, and improving.
+[LinkedIn](https://www.linkedin.com/in/amos-ochieng-129a89328/) · [GitHub repositories](https://github.com/A-amos?tab=repositories)
